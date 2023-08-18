@@ -1,0 +1,28 @@
+{
+  "name": "payeasy",
+  "version": "1.0.0",
+  "description": "An NPM package that handles PayPal, Stripe, and Square payments through one easy package interacting with each services API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FAXES",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faxes/payeasy.git"
+  },
+  "keywords": [
+    "paypal",
+    "easypay",
+    "stripe",
+    "square",
+    "fetch"
+  ],
+  "bugs": {
+    "url": "https://github.com/faxes/payeasy/issues"
+  },
+  "homepage": "https://github.com/faxes/payeasy#readme"
+}
