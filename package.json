@@ -1,6 +1,6 @@
 {
   "name": "payeasy",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "An NPM package that handles PayPal, Stripe, and Square payments through one easy package interacting with each services API.",
   "main": "index.js",
   "scripts": {
